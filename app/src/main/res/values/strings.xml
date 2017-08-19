@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grab a seat</string>
+
+    <string-array name="time">
+        <item>6:50 AM</item>
+        <item>6:55 AM</item>
+    </string-array>
+</resources>
